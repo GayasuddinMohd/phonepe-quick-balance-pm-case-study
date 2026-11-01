@@ -1,5 +1,8 @@
-Notion Link = https://app.notion.com/p/Product-Case-Study-Optimising-PhonePe-s-Quick-Balance-Journey-40b6c79aecfc80199d02c9ea04162b8a
-Figma Link = https://www.figma.com/design/CS0cayliv19KCQH5I6tvtw/--Product-Case-Study--Optimising-PhonePe-s-Quick-Balance-Journey----1.-Project-Overview---Objective?node-id=2-3
+### 🔗 Quick Links
+* **[Notion Documentation](https://app.notion.com/p/Product-Case-Study-Optimising-PhonePe-s-Quick-Balance-Journey-40b6c79aecfc80199d02c9ea04162b8a)**
+* **[Figma Wireframes & User Flow](https://www.figma.com/design/CS0cayliv19KCQH5I6tvtw/--Product-Case-Study---Optimising-PhonePe-s-Quick-Balance-Journey----1.-Project-Overview---Objective?node-id=2-3)**
+
+---
 
 
 
